@@ -6,7 +6,7 @@ Both life expectancy and fertility are metrics that are used as benchmarks to ev
 
 ## Data
 
-The dataset used for this analysis was published and made available on the Data Science website Kaggle[https://www.kaggle.com/], and aggregated by Kacper Kalinowski. It is available [here](https://www.kaggle.com/kacperk77/life-expectancy). The data originally was collected from https://data.worldbank.org/ and is reflective of metrics taken in 2014 across 138 countries.
+The dataset used for this analysis was published and made available on the Data Science website [Kaggle](https://www.kaggle.com/), and aggregated by Kacper Kalinowski. It is available [here](https://www.kaggle.com/kacperk77/life-expectancy). The data originally was collected from https://data.worldbank.org/ and is reflective of metrics taken in 2014 across 138 countries.
 
 ### Datasets
 
