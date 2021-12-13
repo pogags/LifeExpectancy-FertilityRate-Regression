@@ -41,7 +41,8 @@ The features that are *italicized* are features that only exist in Dataset 1, th
 
 ### Preprocessing
 
-Datasets were not missing any values, but did require some partitioning and changes to be prepared for regression. ‘Leastdeveloped’ and ‘Status’ were redundant categorical variables that contained no objective numerical information. Since the status of a country’s development carries no real word input that could rathe be thought of as a categorical output, these two features were removed from the analysis. Additionally, ‘Country’ was removed as it was a string that carried no relevant information for the regression.  
+Datasets were not missing any values, but did require some partitioning and changes to be prepared for regression. ‘Leastdeveloped’ and ‘Status’ were redundant categorical variables that contained no objective numerical information. Since the status of a country’s development carries no real word input that could rathe be thought of as a categorical output, these two features were removed from the analysis. Additionally, ‘Country’ was removed as it was a string that carried no relevant information for the regression.
+
 The remaining input variables were all continuous, however they had large variance in mean values, so all variables were standardized. This can be useful in determining the most impactful factors in a regression, as the largest coefficients will then indicate the most significant features (as long as p-value thresholds are met).
 
 ### Dataset Selction
