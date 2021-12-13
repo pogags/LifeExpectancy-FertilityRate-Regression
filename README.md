@@ -10,31 +10,31 @@ The dataset used for this analysis was published and made available on the Data 
 
 ### Datasets
 
-This overall dataset consists of two overlapping datasets:
-•	Dataset 1: 63 countries, 20 variables, and 17 input variables.
+This overall dataset consists of two overlapping datasets:  
+•	Dataset 1: 63 countries, 20 variables, and 17 input variables  
 •	Dataset 2: 138 countries, 13 variables, and 10 input variables
 
 ### Variables
 
-•	**Fertilityrate** (Fertility rate, total (births per woman) 2014)
-•	**Lifeexp** (Life expectancy at birth, total (years) 2014)
-•	Country (String description of country)
-•	*Literacyrate* (Literacy rate, adult total (% of people ages 15 and above) 2014)
-•	*Homicidiesper100k* (Homicidies per 100k people 2014)
-•	*Electricity* (Electric power consumption (kWh per capita) 2014)
-•	Schooling (Ave number of years of Schooling (years) 2014)
-•	HIV.AIDS (Deaths per 1 000 live births HIV/AIDS (0-4 years) 2014)
-•	Status (Economic development status of country)
-•	Wateraccess (Access to improved water sources (% of total population with access 2014)
-•	Tuberculosis (Incidence of tuberculosis per 100,000 people 2014)
-•	Inflation (Inflation, consumer prices (annual %) 2014)
-•	Healthexppercapita (Average health expenditure per capita, PPP 2005-2014)
-•	*Internet* (Individuals using the Internet (% of population) 2014)
-•	*Gdppercapita* (GDP per capita, PPP (current international $) 2014)
-•	CO2 (Average CO2 emissions (metric tons per capita) 2005-2014)
-•	*Forest* (Forest area (% of land area) 2014)
-•	*Urbanpop* (Urban population 2014)
-•	Urbanpopgrowth (Average urban population growth (annual %) 2005-2014)
+•	**Fertilityrate** (Fertility rate, total (births per woman) 2014)  
+•	**Lifeexp** (Life expectancy at birth, total (years) 2014)  
+•	Country (String description of country)  
+•	*Literacyrate* (Literacy rate, adult total (% of people ages 15 and above) 2014)  
+•	*Homicidiesper100k* (Homicidies per 100k people 2014)  
+•	*Electricity* (Electric power consumption (kWh per capita) 2014)  
+•	Schooling (Ave number of years of Schooling (years) 2014)  
+•	HIV.AIDS (Deaths per 1 000 live births HIV/AIDS (0-4 years) 2014)  
+•	Status (Economic development status of country)  
+•	Wateraccess (Access to improved water sources (% of total population with access 2014)  
+•	Tuberculosis (Incidence of tuberculosis per 100,000 people 2014)  
+•	Inflation (Inflation, consumer prices (annual %) 2014)  
+•	Healthexppercapita (Average health expenditure per capita, PPP 2005-2014)  
+•	*Internet* (Individuals using the Internet (% of population) 2014)  
+•	*Gdppercapita* (GDP per capita, PPP (current international $) 2014)  
+•	CO2 (Average CO2 emissions (metric tons per capita) 2005-2014)  
+•	*Forest* (Forest area (% of land area) 2014)  
+•	*Urbanpop* (Urban population 2014)  
+•	Urbanpopgrowth (Average urban population growth (annual %) 2005-2014)  
 •	Leastdeveloped (1 = country is considered as least developed; 0 = country is considered as developing or developed)
 
 The features that are *italicized* are features that only exist in Dataset 1, the dataset with 20 columns, but not in Dataset 2, the set with more countries. Output variables are **bolded**.
