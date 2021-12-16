@@ -4,6 +4,8 @@
 
 Both life expectancy and fertility are metrics that are used as benchmarks to evaluate the development of a country as well as the strength of their healthcare system. It is in the interest of nations to determine what factors have the largest impact on these statistics if they would like a efficiently allocate thier resources to improve them. This data science project aims to find these factors using multiple regression analysis techniques.
 
+<sub><sup>combining the two tags</sup></sub>
+
 ## Data
 
 The dataset used for this analysis was published and made available on the Data Science website [Kaggle](https://www.kaggle.com/), and aggregated by Kacper Kalinowski. It is available [here](https://www.kaggle.com/kacperk77/life-expectancy). The data originally was collected from https://data.worldbank.org/ and is reflective of metrics taken in 2014 across 138 countries.
