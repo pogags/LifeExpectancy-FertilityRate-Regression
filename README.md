@@ -1,10 +1,9 @@
 # Life Expectancy and Fertility Rates among Nations
-
+<sub><sup>For a full detailed report with more graphics, click [here](https://github.com/pogags/LifeExpectancy-FertilityRate-Regression/blob/main/Life%20Expectancy%20and%20Fertility%20Rates%20among%20nations.pdf)</sup></sub>
 ## Introduction
 
 Both life expectancy and fertility are metrics that are used as benchmarks to evaluate the development of a country as well as the strength of their healthcare system. It is in the interest of nations to determine what factors have the largest impact on these statistics if they would like a efficiently allocate thier resources to improve them. This data science project aims to find these factors using multiple regression analysis techniques.
 
-<sub><sup>combining the two tags</sup></sub>
 
 ## Data
 
