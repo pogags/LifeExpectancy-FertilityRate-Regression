@@ -78,7 +78,7 @@ Out of the 5 models ran, Random Forest and RidgeCV Regressors had the highest R-
 ## Conclusion
 ### Life Expectancy
 
-Based on the models generated a country would be wise to focus on increasing health expenditure for each of its citizens (‘healthexppercapita’) and lowering the death rates from HIV or aids (‘HIV.AIDS’). According to the *Random Forest Model*, increasing the average number of years of schooling (‘Schooling’) and decreasing the rates of tuberculosis (‘tuberculosis’) are also significant factors, and according to the *XGBoost Model* improving water access (‘wateraccess’) is also important in increasing life expectancy. Both these models had a high R-squared score of 0.92 or higher, with the *Random Forest Model* having the best overall model evaluation metrics.
+Based on the models generated a country would be wise to focus on increasing health expenditure for each of its citizens (‘healthexppercapita’) and lowering the death rates from HIV or aids (‘HIV.AIDS’). According to the *Random Forest Model*, increasing the average number of years of schooling (‘Schooling’) and decreasing the rates of tuberculosis (‘tuberculosis’) are also significant factors, and according to the *XGBoost Model* improving water access (‘wateraccess’) is also important in increasing life expectancy. Both these models had an R-squared score of 0.92 or higher, with the *Random Forest Model* having the best overall model evaluation metrics.
 
 ### Fertility Rates
 
