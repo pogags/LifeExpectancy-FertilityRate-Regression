@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+plotly
+pandas_profiling
+urllib
+json
+statsmodels
+sklearn
